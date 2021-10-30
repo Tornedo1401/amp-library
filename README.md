@@ -134,7 +134,7 @@ Line 10:
 ORIGINAL HTML
 ---------------
 Line  1: <p><a style="color: red;" href="javascript:run();">Run</a></p>
-Line  2: <p><a style="margin: 2px;" href="http://www.cnn.com" target="_parent">CNN</a></p>
+Line  2: <p><a style="margin: 2px;" href="https://www.cnn.com" target="_parent">CNN</a></p>
 Line  3: <img src="http://i2.cdn.turner.com/cnnnext/dam/assets/160208081229-gaga-superbowl-exlarge-169.jpg">
 Line  4: <p><a href="http://www.bbcnews.com" target="_blank">BBC</a></p>
 Line  5: <p><INPUT type="submit" value="submit"></p>

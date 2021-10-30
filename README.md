@@ -122,7 +122,7 @@ $ ./amp-console amp:convert sample-html/sample-html-fragment.html
 Line  1: <p><a>Run</a></p>
 Line  2: <p><a href="http://www.cnn.com">CNN</a></p>
 Line  3: <amp-img src="https://i2.cdn.turner.com/cnnnext/dam/assets/160208081229-gaga-superbowl-exlarge-169.jpg" width="780" height="438" layout="responsive"></amp-img>
-Line  4: <p><a href="http://www.bbcnews.com" target="_blank">BBC</a></p>
+Line  4: <p><a href="https://www.bbcnews.com" target="_blank">BBC</a></p>
 Line  5: <p></p>
 Line  6: <p>This is a <!-- test comment -->sample </p><div>sample</div> paragraph
 Line  7: <amp-iframe height="315" width="560" sandbox="allow-scripts allow-same-origin" layout="responsive" src="https://www.reddit.com"></amp-iframe>
